@@ -19,7 +19,6 @@ I am a final-year Computer Science Engineering student with a strong foundation 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykumar1620&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=luckykumar1620&icon=0&color=0)](https://visitcount.itsvg.in)
 
